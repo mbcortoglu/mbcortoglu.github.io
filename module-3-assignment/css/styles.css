@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    border: 0px;
+    margin: 0px;
+}
+.nav-css {
+    background-color: #999999;
+    border: 2px solid;
+}
+.navbar-brand {
+    font-size: 1.5em;
+}
+
+.item {
+    border: 2px solid;
+    padding: 10px;
+    background-color: #999999;
+    margin-bottom: 10px;
+}
+li.nav-item {
+    background-color: #e4d8d8;
+}
+li.nav-item .nav-link {
+    color: #000;
+    font-weight: bold;
+}
+.navbar-toggler {
+    background-color: #e4d8d8;
+}
+
+.menu-title  {
+    font-weight: bold;
+    font-size: 1.3em;
+
+} 
+
